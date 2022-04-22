@@ -14,8 +14,10 @@
 ## Go
 
 - [syscall: use CLONE_VFORK and CLONE_VM](https://github.com/golang/go/commit/9e6b79a5dfb2f6fe4301ced956419a0da83bd025)
+- [os, internal/poll, internal/syscall/unix: use copy_file_range on Linux](https://github.com/golang/go/commit/7be3f09deb2dc1d57cfc18b18e12192be3544794)
 - [index/suffixarray: index 3-10X faster in half the memory](https://github.com/golang/go/commit/6ca324f2837db696dff8e7d7342280dd5cdf6bca)
 - [strconv: use the Eisel-Lemire ParseFloat algorithm](https://github.com/golang/go/commit/a2eb53c571607bb0e64cb2996ca2bd402ad6e347)
+- [sort: use pdqsort](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
 
 ## Python
 
