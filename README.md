@@ -19,4 +19,8 @@
 
 ## Python
 
-- [Switch to Munro & Wild "powersort" merge strategy](https://github.com/python/cpython/pull/28108)
+- [bpo-35537: subprocess uses os.posix_spawn in some cases](https://github.com/python/cpython/pull/11452)
+- [bpo-35823: subprocess: Use vfork() instead of fork() on Linux when safe](https://github.com/python/cpython/pull/11671)
+- [bpo-34561: Switch to Munro & Wild "powersort" merge strategy](https://github.com/python/cpython/pull/28108)
+- **WIP** [pycore_condvar.h: remove Windows conditonal variable emulation, use Windows native conditional variable](https://github.com/python/cpython/issues/89464)
+  - related: [Issue #15038: Optimize python Locks on Windows](https://github.com/python/cpython/commit/e75ff35af2b6c85d48c68b95f295aeac7396b162)
