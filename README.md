@@ -19,6 +19,7 @@
 
 ## Python
 
+- [bpo-33671: efficient zero-copy for shutil.copy* functions (Linux, OSX and Win)](https://github.com/python/cpython/pull/7160)
 - [bpo-35537: subprocess uses os.posix_spawn in some cases](https://github.com/python/cpython/pull/11452)
 - [bpo-35823: subprocess: Use vfork() instead of fork() on Linux when safe](https://github.com/python/cpython/pull/11671)
 - [bpo-34561: Switch to Munro & Wild "powersort" merge strategy](https://github.com/python/cpython/pull/28108)
