@@ -18,6 +18,7 @@
 - [index/suffixarray: index 3-10X faster in half the memory](https://github.com/golang/go/commit/6ca324f2837db696dff8e7d7342280dd5cdf6bca)
 - [strconv: use the Eisel-Lemire ParseFloat algorithm](https://github.com/golang/go/commit/a2eb53c571607bb0e64cb2996ca2bd402ad6e347)
 - [sort: use pdqsort](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
+- [hash/crc32: add AMD64 optimized IEEE CRC calculation](https://github.com/golang/go/commit/2027b00e63d9128eaba4a0164072380561c0fc9c)
 
 ## Python
 
