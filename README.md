@@ -27,3 +27,7 @@
 - [bpo-34561: Switch to Munro & Wild "powersort" merge strategy](https://github.com/python/cpython/pull/28108)
 - **WIP** [pycore_condvar.h: remove Windows conditonal variable emulation, use Windows native conditional variable](https://github.com/python/cpython/issues/89464)
   - related: [Issue #15038: Optimize python Locks on Windows](https://github.com/python/cpython/commit/e75ff35af2b6c85d48c68b95f295aeac7396b162)
+
+## .NET
+
+- [Including FastFloat in parsing process](https://github.com/dotnet/runtime/pull/62301)
