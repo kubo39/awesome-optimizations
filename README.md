@@ -3,6 +3,7 @@
 ## Rust
 
 - [Change Mutex to use SRWLock on Windows](https://github.com/rust-lang/rust/pull/20367)
+- [New floating-to-decimal formatting routine](https://github.com/rust-lang/rust/pull/24612)
 - [Implement a faster sort algorithm](https://github.com/rust-lang/rust/pull/38192)
 - [Implement feature sort_unstable](https://github.com/rust-lang/rust/pull/40601)
 - [Command: Support posix_spawn() on FreeBSD/OSX/GNU Linux](https://github.com/rust-lang/rust/pull/48624)
