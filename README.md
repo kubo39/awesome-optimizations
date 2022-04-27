@@ -33,3 +33,8 @@
 ## .NET
 
 - [Including FastFloat in parsing process](https://github.com/dotnet/runtime/pull/62301)
+
+## Zig
+
+- **WIP** [Float parsing library for Zig (based on Rust's library/core/src/num/dec2flt)](https://github.com/tiehuis/zig-parsefloat)
+  - This will be merged into zig's stdlib someday I guess.
