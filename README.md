@@ -40,5 +40,4 @@
 - [replace quicksort with blocksort ](https://github.com/ziglang/zig/commit/75ecfdf66db22942da349d4279b9ddaa8167788f)
 - [std.Thread.Futex addition](https://github.com/ziglang/zig/pull/9070)
   - and for mutex/condition [std.Thread: Mutex and Condition improvements](https://github.com/ziglang/zig/pull/11497)
-- **WIP** [Float parsing library for Zig (based on Rust's library/core/src/num/dec2flt)](https://github.com/tiehuis/zig-parsefloat)
-  - This will be merged into zig's stdlib someday I guess.
+- [add new float-parser based on eisel-lemire algorithm](https://github.com/ziglang/zig/pull/11566)
