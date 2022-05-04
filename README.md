@@ -41,3 +41,7 @@
 - [std.Thread.Futex addition](https://github.com/ziglang/zig/pull/9070)
   - and for mutex/condition [std.Thread: Mutex and Condition improvements](https://github.com/ziglang/zig/pull/11497)
 - [add new float-parser based on eisel-lemire algorithm](https://github.com/ziglang/zig/pull/11566)
+
+## Swift
+
+- [SwiftDtoa v2: Better, Smaller, Faster floating-point formatting](https://github.com/apple/swift/pull/35299)
