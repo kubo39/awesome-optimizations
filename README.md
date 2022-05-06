@@ -45,3 +45,8 @@
 ## Swift
 
 - [SwiftDtoa v2: Better, Smaller, Faster floating-point formatting](https://github.com/apple/swift/pull/35299)
+
+## Hare
+
+- [strconv: implement Eisel-Lemire fast float parsing algorithm](https://git.sr.ht/~sircmpwn/hare/commit/cc66165dd42e0e89cd641b9fb932b41060580ea7)
+- [strconv: implement f32 to string conversion](https://git.sr.ht/~sircmpwn/hare/commit/699fb637b93d19e19cbd97e593fb135685f4406d)
