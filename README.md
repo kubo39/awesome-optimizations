@@ -46,6 +46,10 @@
 
 - [SwiftDtoa v2: Better, Smaller, Faster floating-point formatting](https://github.com/apple/swift/pull/35299)
 
+## Nim
+
+- [use dragonbox algorithm; alternative to #18008](https://github.com/nim-lang/Nim/pull/18139)
+
 ## Hare
 
 - [strconv: implement Eisel-Lemire fast float parsing algorithm](https://git.sr.ht/~sircmpwn/hare/commit/cc66165dd42e0e89cd641b9fb932b41060580ea7)
