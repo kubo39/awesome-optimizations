@@ -48,6 +48,7 @@
 
 ## Nim
 
+- [osproc: use clone with CLONE_VM on Linux for faster process spawning](https://github.com/nim-lang/Nim/commit/cd2bd7fa7b1048956c72ad7665b70b2eabecd549)
 - [use dragonbox algorithm; alternative to #18008](https://github.com/nim-lang/Nim/pull/18139)
 
 ## Hare
