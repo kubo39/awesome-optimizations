@@ -43,6 +43,7 @@
 - [std.Thread.Futex addition](https://github.com/ziglang/zig/pull/9070)
   - and for mutex/condition [std.Thread: Mutex and Condition improvements](https://github.com/ziglang/zig/pull/11497)
 - [add new float-parser based on eisel-lemire algorithm](https://github.com/ziglang/zig/pull/11566)
+- [partial implementation of printing floating point numbers with errol3](https://github.com/ziglang/zig/commit/7f0620a20fc431717d017d0c19f1e1f29723d93f)
 
 ## Swift
 
