@@ -2,6 +2,8 @@
 
 ## Rust
 
+### rust-lang/rust
+
 - [Change Mutex to use SRWLock on Windows](https://github.com/rust-lang/rust/pull/20367)
 - [New floating-to-decimal formatting routine](https://github.com/rust-lang/rust/pull/24612)
 - [Update substring search to use the Two Way algorithm](https://github.com/rust-lang/rust/pull/26327)
@@ -12,6 +14,10 @@
 - [specialize io::copy to use copy_file_range, splice or sendfile](https://github.com/rust-lang/rust/pull/75272)
 - [Update Rust Float-Parsing Algorithms to use the Eisel-Lemire algorithm](https://github.com/rust-lang/rust/pull/86761)
 - [Replace Linux Mutex and Condvar with futex based ones](https://github.com/rust-lang/rust/pull/95035)
+
+### rust-lang/compiler-builtins
+
+- [Faster float conversion operations](https://github.com/rust-lang/compiler-builtins/pull/464)
 
 ## Go
 
@@ -36,6 +42,7 @@
 ## .NET
 
 - [Including FastFloat in parsing process](https://github.com/dotnet/runtime/pull/62301)
+- [Adding Int128 and UInt128 with a base software implementation](https://github.com/dotnet/runtime/pull/69204)
 
 ## Zig
 
