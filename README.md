@@ -54,6 +54,7 @@
 - [Implement a faster sort algorithm](https://github.com/rust-lang/rust/pull/38192)
 - [Implement feature sort_unstable](https://github.com/rust-lang/rust/pull/40601)
 - [Command: Support posix_spawn() on FreeBSD/OSX/GNU Linux](https://github.com/rust-lang/rust/pull/48624)
+- [Support for disabling PLT for better function call performance](https://github.com/rust-lang/rust/pull/54592)
 - [Replace HashMap implementation with SwissTable (as an external crate)](https://github.com/rust-lang/rust/pull/58623)
 - [specialize io::copy to use copy_file_range, splice or sendfile](https://github.com/rust-lang/rust/pull/75272)
 - [Update Rust Float-Parsing Algorithms to use the Eisel-Lemire algorithm](https://github.com/rust-lang/rust/pull/86761)
