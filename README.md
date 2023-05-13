@@ -60,6 +60,7 @@
 - [Update Rust Float-Parsing Algorithms to use the Eisel-Lemire algorithm](https://github.com/rust-lang/rust/pull/86761)
 - [Replace Linux Mutex and Condvar with futex based ones](https://github.com/rust-lang/rust/pull/95035)
 - [Introduce deduced parameter attributes, and use them for deducing readonly on indirect immutable freeze by-value function parameters.](https://github.com/rust-lang/rust/pull/103172)
+- [x86_64 SSE2 fast-path for str.contains(&str) and short needles](https://github.com/rust-lang/rust/pull/103779)
 
 ### rust-lang/compiler-builtins
 
