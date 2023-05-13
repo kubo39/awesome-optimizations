@@ -72,7 +72,7 @@
 
 ## Zig
 
-- [replace quicksort with blocksort ](https://github.com/ziglang/zig/commit/75ecfdf66db22942da349d4279b9ddaa8167788f)
+- [replace quicksort with blocksort](https://github.com/ziglang/zig/commit/75ecfdf66db22942da349d4279b9ddaa8167788f)
 - [Parker interface & std.Mutex performance improvements](https://github.com/ziglang/zig/pull/3585)
 - [std.Thread.Futex addition](https://github.com/ziglang/zig/pull/9070)
   - and for mutex/condition [std.Thread: Mutex and Condition improvements](https://github.com/ziglang/zig/pull/11497)
