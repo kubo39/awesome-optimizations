@@ -1,5 +1,10 @@
 # awesome optimizations
 
+## D
+
+- [Improve isAlphaNum](https://github.com/dlang/phobos/pull/8588)
+- [Optimize isHexDigit](https://github.com/dlang/phobos/pull/8597)
+
 ## Go
 
 - [syscall: use CLONE_VFORK and CLONE_VM](https://github.com/golang/go/commit/9e6b79a5dfb2f6fe4301ced956419a0da83bd025)
