@@ -16,6 +16,7 @@
 - [strconv: implement Ryū-like algorithm for fixed precision ftoa](https://github.com/golang/go/commit/0184b445c04a0f30e34ce624298547f12630f3aa)
 - [math: amd64 versions of exp and fabs](https://github.com/golang/go/commit/a0117bafa0ddba85a063b958111b1989e39b1a43)
 - [sort: use pdqsort](https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257)
+- [os, internal/poll, internal/syscall/unix: use copy_file_range on Linux](https://github.com/golang/go/commit/7be3f09deb2dc1d57cfc18b18e12192be3544794)
 
 ## Hare
 
