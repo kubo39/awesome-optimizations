@@ -85,3 +85,4 @@
 - [add new float-parser based on eisel-lemire algorithm](https://github.com/ziglang/zig/pull/11566)
 - [partial implementation of printing floating point numbers with errol3](https://github.com/ziglang/zig/commit/7f0620a20fc431717d017d0c19f1e1f29723d93f)
 - [std.sort: add pdqsort and heapsort](https://github.com/ziglang/zig/pull/15412)
+- [std.fmt: add ryu floating-point formatting implementation](https://github.com/ziglang/zig/pull/19229)
