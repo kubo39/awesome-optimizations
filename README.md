@@ -74,6 +74,7 @@
 
 ## Swift
 
+- [[stdlib] Switch to a stable sort algorithm](https://github.com/apple/swift/pull/19717)
 - [SwiftDtoa v2: Better, Smaller, Faster floating-point formatting](https://github.com/apple/swift/pull/35299)
 
 ## Zig
