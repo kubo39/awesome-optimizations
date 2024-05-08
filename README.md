@@ -1,5 +1,9 @@
 # awesome optimizations
 
+## Crystal
+
+- [Implement the Dragonbox algorithm for Float#to_s](https://github.com/crystal-lang/crystal/pull/10913)
+
 ## D
 
 - [Improve isAlphaNum](https://github.com/dlang/phobos/pull/8588)
