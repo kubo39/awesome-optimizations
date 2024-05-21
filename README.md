@@ -81,6 +81,10 @@
 - [[stdlib] Switch to a stable sort algorithm](https://github.com/apple/swift/pull/19717)
 - [SwiftDtoa v2: Better, Smaller, Faster floating-point formatting](https://github.com/apple/swift/pull/35299)
 
+## V
+
+- [hashmap: new and fast hashmap with dynamic size](https://github.com/vlang/v/pull/3554)
+
 ## Zig
 
 - [replace quicksort with blocksort](https://github.com/ziglang/zig/commit/75ecfdf66db22942da349d4279b9ddaa8167788f)
