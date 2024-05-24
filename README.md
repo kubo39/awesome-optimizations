@@ -2,7 +2,9 @@
 
 ## Crystal
 
-- [Hash now uses an open addressing algorithm](https://github.com/crystal-lang/crystal/pull/8017)- [Implement the Dragonbox algorithm for Float#to_s](https://github.com/crystal-lang/crystal/pull/10913)
+- [Hash now uses an open addressing algorithm](https://github.com/crystal-lang/crystal/pull/8017)
+- [Add stable sort implementation to Slice and Array](https://github.com/crystal-lang/crystal/pull/10163)
+- [Implement the Dragonbox algorithm for Float#to_s](https://github.com/crystal-lang/crystal/pull/10913)
 
 ## D
 
