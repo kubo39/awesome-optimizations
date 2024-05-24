@@ -2,12 +2,11 @@
 
 ## Crystal
 
-- [Implement the Dragonbox algorithm for Float#to_s](https://github.com/crystal-lang/crystal/pull/10913)
+- [Hash now uses an open addressing algorithm](https://github.com/crystal-lang/crystal/pull/8017)- [Implement the Dragonbox algorithm for Float#to_s](https://github.com/crystal-lang/crystal/pull/10913)
 
 ## D
 
 - [fix Issue 14385 - AA should use open addressing hash](https://github.com/dlang/dmd/commit/79bc91b41334c1805f557ef2f1606de31c6764d1)
-
 - [Improve isAlphaNum](https://github.com/dlang/phobos/pull/8588)
 - [Optimize isHexDigit](https://github.com/dlang/phobos/pull/8597)
 
