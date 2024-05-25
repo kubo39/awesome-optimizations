@@ -8,7 +8,7 @@
 
 ## D
 
-- [fix Issue 14385 - AA should use open addressing hash](https://github.com/dlang/dmd/commit/79bc91b41334c1805f557ef2f1606de31c6764d1)
+- [fix Issue 14385 - AA should use open addressing hash](https://github.com/dlang/druntime/pull/1229)
 - [Improve isAlphaNum](https://github.com/dlang/phobos/pull/8588)
 - [Optimize isHexDigit](https://github.com/dlang/phobos/pull/8597)
 
